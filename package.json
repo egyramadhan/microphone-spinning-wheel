@@ -1,0 +1,23 @@
+{
+  "name": "microphone-spinning-wheel",
+  "version": "1.0.0",
+  "description": "game spinning wheel with sound",
+  "main": "main.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egyramadhan/microphone-spinning-wheel.git"
+  },
+  "keywords": [
+    "game",
+    "javascript"
+  ],
+  "author": "Egi Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egyramadhan/microphone-spinning-wheel/issues"
+  },
+  "homepage": "https://github.com/egyramadhan/microphone-spinning-wheel#readme"
+}
